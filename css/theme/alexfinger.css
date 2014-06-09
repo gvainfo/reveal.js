@@ -80,6 +80,15 @@ body {
 /*********************************************
  * IMAGES
  *********************************************/
+
+#logo  {
+    position: absolute;
+    width: 80px;
+    left: -90px;
+    top: 0px;
+    z-index: -1;
+ } 
+ 
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
